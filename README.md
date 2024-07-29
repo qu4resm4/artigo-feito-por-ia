@@ -1,4 +1,4 @@
-# Projeto EBOOK Gerado por I.A.s
+# Projeto ARTIGO Gerado por I.A.s
 
  > ℹ️ **NOTE:** Este é o repositório
 
